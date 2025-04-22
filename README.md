@@ -6,9 +6,9 @@ Implemented a cloud-based scalable and secure file share and sync solution using
 completely managed and controlled by your IT team in accordance with a company’s governance and security requirements.
 
 -Skills & Tools Covered:
-Virtual Machine Instance
-Virtual Network
-Network Security Group
+Virtual Machine Instance,
+Virtual Network,
+Network Security Group,
 MySQL
 
 -Scenario:
@@ -28,11 +28,11 @@ II - AWS - Deployment on containers on AWS Lambda
 Managed Services on AWS and DevOps
 Deployed an OCI container image on AWS Lambda to leverage the event driven runtime model and cost saving advantages of AWS Lambda while, taking advantage of the predictability and control offered by a container based development and deployment lifecycle.
 
--Skills & Tools Covered
-Docker
-ECR
-AWS Lambda
-containers
+-Skills & Tools Covered:
+Docker,
+ECR,
+AWS Lambda,
+containers,
 IAM Roles
 
 -Scenario:
@@ -44,11 +44,11 @@ III - Team Communication Solution on AWS
 Cloud Computing on AWS
 Implemented a team communication solution using Mattermost and AWS. This is a scalable solution that can be hosted on a public cloud, with its servers, storage etc. completely managed and controlled by an IT team in accordance with a company’s governance and security requirements.
 
--Skills & Tools Covered
-VPC
-EC2
-Security Group
-Internet Gateway/NAT Gateway
+-Skills & Tools Covered:
+VPC,
+EC2,
+Security Group,
+Internet Gateway/NAT Gateway,
 
 -Scenario:
 Team communication and instant messaging solutions are an integral part of any business
