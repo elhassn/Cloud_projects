@@ -48,7 +48,7 @@ Implemented a team communication solution using Mattermost and AWS. This is a sc
 VPC,
 EC2,
 Security Group,
-Internet Gateway/NAT Gateway,
+Internet Gateway/NAT Gateway
 
 -Scenario:
 Team communication and instant messaging solutions are an integral part of any business
